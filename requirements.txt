@@ -1,0 +1,4 @@
+flask
+dnspython
+shodan
+requests
