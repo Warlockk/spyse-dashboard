@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-from shodan import Shodan
 from flask import Flask, render_template, request
 from spyse.spyse import spyse
 import requests
